@@ -2,12 +2,12 @@ ROBLOX PORTOFOLIO
 
 Intro
 
-    Hello, I'm Globe. I'm a scripter that specializes in python/C++ and Lua/LuaU. I have worked on many commissions. 
-    My timezone is GMT+10.
+Hello, I'm Globe. I'm a scripter that specializes in python/C++ and Lua/LuaU. I have worked on many commissions. 
+My timezone is GMT+10.
     
-SkillSet
+Skills
 
-    I've been scripting on Roblox for 3 years now. I can code in object-orienting programming (OOP), Module/Functions programming, etc. I know both back-end and front-end scripting. My scripting style is easy to understand and clean. I can work both in a team, or solo.
+I've been scripting on Roblox for 3 years now. I can code in object-orienting programming (OOP), Module/Functions programming, etc. I know both back-end and front-end scripting. My scripting style is easy to understand and clean. I can work both in a team, or solo.
 
     Including:
         • DataStores, Inventories, All Types of Datastore Frameworks.
@@ -18,6 +18,7 @@ SkillSet
         • Zones.
         • Combat Structures, Full Game Stuctures, Game Combat Systems.
         • etc.
+
 
 
 PAST WORK 
