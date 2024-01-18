@@ -32,6 +32,9 @@ https://youtu.be/r5EISF0CPmw
 grid inventory:
 https://youtu.be/bnkDkW0HEcA
 
+drawing on gui (i made this in an hour):
+https://youtu.be/6M1p8VTKUVo
+
 Availability
 
     I'm available all day, but if I don't reply, I'm probably sleeping.
