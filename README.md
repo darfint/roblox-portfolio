@@ -16,7 +16,7 @@ I've been scripting on Roblox for 3 years now. I can code in object-orienting pr
         • UIs.
         • Plot System.
         • Zones.
-        • Combat Structures, Full Game Stuctures, Game Combat Systems.
+        • Combat Structures, Full Game Structures, Game Combat Systems.
         • etc.
 
 
