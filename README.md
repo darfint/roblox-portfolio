@@ -35,8 +35,8 @@ https://youtu.be/bnkDkW0HEcA
 drawing on gui (i made this in an hour):
 https://youtu.be/6M1p8VTKUVo
 
-OOP system with datastore, pickup, drop, sell, save money, vehicles, fuel, weight. MORE INFO IN GAME'S DESCRIPTION:
-https://www.roblox.com/games/15707236789/Fruit-Routes
+OOP system with datastore, pickup, drop, sell, save money, vehicles, fuel, weight.
+https://www.youtube.com/watch?v=kMkwwxV_vKY&ab_channel=MichaelObamaSon
 
 Availability
 
